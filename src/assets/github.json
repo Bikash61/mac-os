@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1000",
+    "title": "Scheds - Course Schedule Generator",
+    "description": "A comprehensive course schedule generator built with ASP.NET Core MVC.",
+    "tags": ["ASP.NET Core", "C#", "Entity Framework", "SQL Server", "Bootstrap", "jQuery"],
+    "repoLink": "https://github.com/microsoft/dotnet",
+    "demoLink": "https://dotnet.microsoft.com/"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1000",
+    "title": "FinTrack - Personal Finance Dashboard",
+    "description": "A real-time finance tracker with interactive charts and budgeting tools.",
+    "tags": ["React", "TypeScript", "Chart.js", "Node.js", "Express"],
+    "repoLink": "https://github.com/facebook/react",
+    "demoLink": "https://react.dev/"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1000",
+    "title": "TaskFlow - Task Management App",
+    "description": "A productivity application for managing daily tasks and team collaboration.",
+    "tags": ["React", "Firebase", "Tailwind CSS", "JavaScript"],
+    "repoLink": "https://github.com/firebase/firebase-js-sdk",
+    "demoLink": "https://firebase.google.com/"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1000",
+    "title": "WeatherNow - Weather Forecast App",
+    "description": "A weather application using OpenWeather API with a clean responsive UI.",
+    "tags": ["React", "API", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/openweathermap",
+    "demoLink": "https://openweathermap.org/"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1000",
+    "title": "ShopEase - E-Commerce Website",
+    "description": "A full-stack e-commerce platform with product search and secure checkout.",
+    "tags": ["React", "Node.js", "MongoDB", "Express", "Stripe"],
+    "repoLink": "https://github.com/stripe",
+    "demoLink": "https://stripe.com/"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000",
+    "title": "MovieHub - Movie Search App",
+    "description": "Search and discover movies using TMDB API with detailed movie information.",
+    "tags": ["React", "TMDB API", "Axios", "Bootstrap"],
+    "repoLink": "https://github.com/axios/axios",
+    "demoLink": "https://www.themoviedb.org/"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1000",
+    "title": "DevConnect - Social Platform",
+    "description": "A developer networking platform with profiles, posts, and messaging.",
+    "tags": ["MERN Stack", "JWT", "MongoDB", "Express", "React", "Node.js"],
+    "repoLink": "https://github.com/vercel/next.js",
+    "demoLink": "https://nextjs.org/"
+  }
+]
