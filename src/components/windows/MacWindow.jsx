@@ -12,6 +12,7 @@ const MacWindow = () => {
             <div className="dot yellow"></div>
             <div className="dot green"></div>            
           </div>
+          <div className="title"><p>Bikash Bashyal - zsh</p></div>
          </div>
          <div className="main-content"></div>
       </div>
