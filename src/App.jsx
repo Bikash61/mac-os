@@ -10,7 +10,8 @@ function App() {
     <main>
       <Nav/>
       <Dock/>
-      <Github/>
+      <Github></Github>
+    
     
     </main>
   )
