@@ -1,0 +1,9 @@
+.spotify-window {
+  width: 100%;
+  height: 100%;
+}
+.spotify-window iframe {
+  height: 100%;
+  width: 100%;
+  border: none;
+}/*# sourceMappingURL=spotify.css.map */

@@ -4,6 +4,8 @@ import './app.scss'
 import MacWindow from './components/windows/MacWindow'
 import Github from './components/windows/Github'
 import Note from './components/windows/Note'
+import Resume from './components/windows/Resume'
+import Spotify from './components/windows/Spotify'
 
 function App() {
   
@@ -13,6 +15,8 @@ function App() {
       <Dock/>
       <Github/>
       <Note/>
+      <Resume/>
+      <Spotify/>
     
     
     </main>
