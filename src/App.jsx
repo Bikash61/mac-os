@@ -3,6 +3,7 @@ import Nav from './components/Nav'
 import './app.scss'
 import MacWindow from './components/windows/MacWindow'
 import Github from './components/windows/Github'
+import Note from './components/windows/Note'
 
 function App() {
   
@@ -10,7 +11,8 @@ function App() {
     <main>
       <Nav/>
       <Dock/>
-      <Github></Github>
+      <Github/>
+      <Note/>
     
     
     </main>
