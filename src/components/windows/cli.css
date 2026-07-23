@@ -1,0 +1,7 @@
+.cli-window {
+  height: 100%;
+  overflow: auto;
+}
+.cli-window div[name=react-console-emualator] {
+  height: 100%;
+}/*# sourceMappingURL=cli.css.map */
